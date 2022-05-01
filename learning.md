@@ -16,3 +16,13 @@
   - li em{}
   - h1 + p
   - a:hover
+
+# 2022年5月1日
+- カスケード
+- [セレクター](https://developer.mozilla.org/ja/docs/Learn/CSS/Building_blocks/Selectors#reference_table_of_selectors)
+- display: flex, block, inline-block
+- box-sizing: border-box
+- margin, padding, border, border-box
+- マージンは相殺する
+- background-image: url()
+- 
