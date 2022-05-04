@@ -25,4 +25,6 @@
 - margin, padding, border, border-box
 - マージンは相殺する
 - background-image: url()
-- 
+
+# 2022年5月2日
+- overflow
