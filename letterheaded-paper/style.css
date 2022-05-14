@@ -39,3 +39,20 @@ h1 {
 }
 
 /* Your CSS below here */
+article {
+  background: url(top-image.png) no-repeat left top;
+  background: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0) 20%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.3)),
+    url(top-image.png) no-repeat left top,
+    url(bottom-image.png) no-repeat left bottom;
+  background-color: white;
+  border-top: 1mm solid red;
+  border-bottom: 1mm solid red;
+}
+
+h1 {
+  background: url(logo.png) ;
+  /* filter: drop-shadow(5px 5px 5px black); */
+  border-radius: 50%;
+  /* border: 5px solid black; */
+  box-shadow: 5px 5px 5px black;
+}
