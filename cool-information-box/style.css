@@ -3,3 +3,21 @@ html {
 }
 
 /* Your CSS below here */
+p {
+  width: 200px;
+  line-height: 3;
+  text-align: center;
+  /* htmlのフォントサイズ16pxの1.1倍 */
+  font-size: 1.1rem;
+  background-color: red;
+  color: red;
+  text-shadow: black 2px 2px;
+  border-radius: 5px;
+  border: 1px solid rgb(180, 0, 0);
+  /* ? 右下隅に向かう半透明の黒の線形グラデーション。 最初は完全に透明にし、それに沿って 30% ずつ不透明度を約 0.2 に段階的に調整し、最後まで同じ色のままにします。 */
+  background-image: linear-gradient(135deg, rgba(0,0,0,0), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0.2));
+
+  box-shadow: inset 2px 2px rgba(255,255,255,0.5),
+    inset -2px -2px rgba(0,0,0,0.5);
+
+}
