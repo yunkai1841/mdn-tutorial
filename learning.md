@@ -31,3 +31,7 @@
 
 # 2022年5月14日
 - CSS の構成要素完了
+
+# 2022年5月15日
+- [フォント](https://developer.mozilla.org/ja/docs/Learn/CSS/Styling_text/Fundamentals)
+- [リンクに画像を含める](https://developer.mozilla.org/ja/docs/Learn/CSS/Styling_text/Styling_links)
