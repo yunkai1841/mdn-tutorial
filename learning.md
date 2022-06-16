@@ -35,3 +35,6 @@
 # 2022年5月15日
 - [フォント](https://developer.mozilla.org/ja/docs/Learn/CSS/Styling_text/Fundamentals)
 - [リンクに画像を含める](https://developer.mozilla.org/ja/docs/Learn/CSS/Styling_text/Styling_links)
+
+# 2022年6月16日
+- script deffer async
